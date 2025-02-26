@@ -1,0 +1,3 @@
+# Files in include directory
+/include/*
+!/include/sidebar
